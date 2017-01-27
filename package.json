@@ -1,6 +1,6 @@
 {
   "name": "tba-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.JS API for The Blue Alliance",
   "main": "index.js",
   "scripts": {
